@@ -1,1 +1,9 @@
 # DEEP_INBT0649_072023
+
+TASK 1: PORTFOLIO
+
+TASK 2: WEATHER APP
+
+MAJOT PROJECT: SPOTIFY CLONE
+
+Source Code for each project is provided here
